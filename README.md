@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Challenge
 
 ## Purpose
 Refactored excess code that didnt need to be repeated and gave proper semantics to file.
